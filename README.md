@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-with-Market-News-
+# Stock-Price-Prediction-with-Market-News
 
 Stock price prediction is an important area in the finance industry. It can be used for managing investment or mitigating various types of financial risks. Investment firms, hedge funds and individuals have been studying using financial models to better understand market behaviour and make profitable investment trades.
 
